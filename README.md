@@ -1,4 +1,4 @@
 # NewGitClass
 Learn github
 <br>
-Author - Vikas Rawat
+Author - Vikas  singh Rawat
